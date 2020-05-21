@@ -1,7 +1,6 @@
+'''
 https://leetcode.com/problems/count-square-submatrices-with-all-ones/
-
-SOLUTION:
-
+'''
 ==========================================================================================================
 class Solution(object):                                                                                  
     def countSquares(self, matrix):                                                                      
